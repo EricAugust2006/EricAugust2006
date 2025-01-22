@@ -62,5 +62,3 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor em aprendizado c
 - 🐳 **Docker:** Aprender como usar containers para criar ambientes de desenvolvimento consistentes e escaláveis.
 
 ---
-
-## 🤝 Vamos
