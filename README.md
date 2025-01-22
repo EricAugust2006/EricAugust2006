@@ -18,7 +18,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor em aprendizado c
 <summary>🌐 Front-End</summary>
 
 - **Linguagens:** HTML, CSS, JavaScript.
-- **Frameworks:** Tailwind CSS para estilização moderna e responsiva.
+- **Frameworks:** React, Tailwind CSS para estilização moderna e responsiva.
 - **Práticas:** Criação de layouts acessíveis e funcionais, com foco em responsividade.
 
 </details>
@@ -48,7 +48,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor em aprendizado c
 
 - **Git e GitHub:** Controle de versão e colaboração em projetos.
 - **Node.js:** Familiaridade para desenvolvimento de aplicações web e manipulação de back-end.
-- 
+
 </details>
 
 ---
@@ -63,11 +63,4 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor em aprendizado c
 
 ---
 
-## 🤝 Vamos nos conectar?
-
-Adoro compartilhar ideias, aprender com outras pessoas e colaborar em projetos. Ficarei muito feliz em conversar!
-
-- 📧 **E-mail:** ericaugust2006@gmail.com
-- 💼 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/ericaugust2006dsvjft/)(#)
-- 
----
+## 🤝 Vamos
