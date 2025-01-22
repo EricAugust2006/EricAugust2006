@@ -37,7 +37,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor em aprendizado c
 <summary>🗄️ Bancos de Dados</summary>
 
 - **Relacionais:**
-  - **SQLite3:** Uso frequente para projetos menores (como o sistema para armazenar dados de clientes).
+  - **SQLite3:** Uso frequente para projetos menores.
   - **PostgreSQL:** Experiência sólida em projetos maiores.
   - **MySQL:** Conhecimento básico.
 
