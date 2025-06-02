@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvmtf7rY38B2163bVf/giphy.gif" width="150" height="150" style="border-radius: 50%;">
   <h1>👋 Olá, eu sou Eric!</h1>
   <h3>Desenvolvedor em formação | Apaixonado por tecnologia | Em busca de impacto real</h3>
 </div>
@@ -7,8 +6,6 @@
 ---
 
 ## 🚀 Sobre mim
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgKkyUeJ9V4F81gC2L/giphy.gif">
 
 Seja bem-vindo(a) ao meu perfil no GitHub! 🚀 Sou um desenvolvedor em aprendizado constante, apaixonado por tecnologia e desenvolvimento de software. Minha meta é adquirir **experiência prática** e contribuir para projetos que tenham **impacto real**.
 
