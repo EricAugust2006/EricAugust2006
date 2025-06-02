@@ -1,53 +1,77 @@
-# 👋 Olá, eu sou Eric!
-
-Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor em aprendizado constante, apaixonado por tecnologia e desenvolvimento de software. Minha meta é adquirir experiência prática e contribuir para projetos que tenham impacto real.
+<div align="center">
+  <img src="https://media.giphy.com/media/hvmtf7rY38B2163bVf/giphy.gif" width="150" height="150" style="border-radius: 50%;">
+  <h1>👋 Olá, eu sou Eric!</h1>
+  <h3>Desenvolvedor em formação | Apaixonado por tecnologia | Em busca de impacto real</h3>
+</div>
 
 ---
 
 ## 🚀 Sobre mim
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgKkyUeJ9V4F81gC2L/giphy.gif">
+
+Seja bem-vindo(a) ao meu perfil no GitHub! 🚀 Sou um desenvolvedor em aprendizado constante, apaixonado por tecnologia e desenvolvimento de software. Minha meta é adquirir **experiência prática** e contribuir para projetos que tenham **impacto real**.
+
 - 💻 **Desenvolvedor em formação:** Busco todos os dias melhorar minhas habilidades e explorar novas tecnologias.
-- 🎯 **Objetivo:** Construir uma carreira como desenvolvedor web full-stack e contribuir para projetos desafiadores e significativos.
-- 🌱 **Projetos atuais:** Estou desenvolvendo um sistema simples para armazenar dados de clientes de uma lojinha de galetos, usando Django e SQLite.
+- 🎯 **Objetivo:** Construir uma carreira sólida como **desenvolvedor web full-stack** e contribuir para projetos desafiadores e significativos.
+- 🌱 **Projetos atuais:** Estou desenvolvendo um sistema simples para armazenar dados de clientes de uma lojinha de galetos, utilizando **Django** e **SQLite**.
 
 ---
 
 ## 🛠️ Minhas habilidades
 
-<details>
-<summary>🌐 Front-End</summary>
+Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
-- **Linguagens:** HTML, CSS, JavaScript.
-- **Frameworks:** React, Tailwind CSS para estilização moderna e responsiva.
-- **Práticas:** Criação de layouts acessíveis e funcionais, com foco em responsividade.
+---
+
+### 🌐 Front-End
+
+<details>
+<summary>Clique para expandir!</summary>
+
+-   **Linguagens:** HTML, CSS, JavaScript
+-   **Frameworks/Bibliotecas:** React, Tailwind CSS (para estilização moderna e responsiva)
+-   **Práticas:** Criação de layouts acessíveis e funcionais, com foco em responsividade e experiência do usuário.
 
 </details>
 
-<details>
-<summary>🔧 Back-End</summary>
+---
 
-- **Linguagens:** Python, JavaScript (Node.js).
-- **Frameworks:** Django (uso frequente para criar APIs e sistemas robustos).
-- **APIs:** Desenvolvimento de APIs RESTful.
-- **Práticas:** Autenticação, manipulação de dados e lógica de negócios.
+### 🔧 Back-End
+
+<details>
+<summary>Clique para expandir!</summary>
+
+-   **Linguagens:** Python, JavaScript (Node.js)
+-   **Frameworks:** Django (uso frequente para criar APIs e sistemas robustos)
+-   **APIs:** Desenvolvimento de **APIs RESTful**
+-   **Práticas:** Autenticação, manipulação de dados e lógica de negócios.
 
 </details>
 
-<details>
-<summary>🗄️ Bancos de Dados</summary>
+---
 
-- **Relacionais:**
-  - **SQLite3:** Uso frequente para projetos menores.
-  - **PostgreSQL:** Experiência sólida em projetos maiores.
-  - **MySQL:** Conhecimento básico.
+### 🗄️ Bancos de Dados
+
+<details>
+<summary>Clique para expandir!</summary>
+
+-   **Relacionais:**
+    -   **SQLite3:** Uso frequente para projetos menores.
+    -   **PostgreSQL:** Experiência sólida em projetos maiores.
+    -   **MySQL:** Conhecimento básico.
 
 </details>
 
-<details>
-<summary>📦 Ferramentas e Versionamento</summary>
+---
 
-- **Git e GitHub:** Controle de versão e colaboração em projetos.
-- **Node.js:** Familiaridade para desenvolvimento de aplicações web e manipulação de back-end.
+### 📦 Ferramentas e Versionamento
+
+<details>
+<summary>Clique para expandir!</summary>
+
+-   **Controle de Versão:** Git e GitHub (para controle de versão e colaboração em projetos)
+-   **Ambientes:** Node.js (familiaridade para desenvolvimento de aplicações web e manipulação de back-end)
 
 </details>
 
@@ -55,10 +79,12 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor em aprendizado c
 
 ## 📚 O que estou aprendendo agora
 
-- 🧩 **Tailwind CSS:** Explorar todo o potencial para criar interfaces elegantes e minimalistas.
-- 🐍 **Django:** Aprofundar conhecimentos em autenticação, ORM e escalabilidade para sistemas mais robustos.
-- 🗄️ **Bancos de dados:** Melhorar a utilização de **PostgreSQL** e **MySQL**, além de explorar o NoSQL com MongoDB.
-- 🌐 **Node.js:** Entender como utilizá-lo em back-end e aplicações em tempo real.
-- 🐳 **Docker:** Aprender como usar containers para criar ambientes de desenvolvimento consistentes e escaláveis.
+Estou sempre em busca de novos conhecimentos! Atualmente, estou focado em:
+
+-   🧩 **Tailwind CSS:** Explorando todo o potencial para criar interfaces elegantes e minimalistas.
+-   🐍 **Django:** Aprofundando conhecimentos em autenticação, ORM e escalabilidade para sistemas mais robustos.
+-   🗄️ **Bancos de Dados:** Melhorando a utilização de **PostgreSQL** e **MySQL**, além de explorar o NoSQL com MongoDB.
+-   🌐 **Node.js:** Entendendo como utilizá-lo em back-end e aplicações em tempo real.
+-   🐳 **Docker:** Aprendendo como usar containers para criar ambientes de desenvolvimento consistentes e escaláveis.
 
 ---
