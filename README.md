@@ -1,48 +1,50 @@
 <div align="center">
-  <h1>👋 Olá, eu sou Eric!</h1>
-  <h3>Desenvolvedor em formação | Apaixonado por tecnologia | Em busca de impacto real</h3>
+  <h1>👋 Olá, eu sou o Eric!</h1>
+  <h3>💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia | 🌱 Em constante evolução</h3>
 </div>
 
 ---
 
 ## 🚀 Sobre mim
 
-Seja bem-vindo(a) ao meu perfil no GitHub! 🚀 Sou um desenvolvedor em aprendizado constante, apaixonado por tecnologia e desenvolvimento de software. Minha meta é adquirir **experiência prática** e contribuir para projetos que tenham **impacto real**.
+Bem-vindo(a) ao meu perfil no GitHub! 👋  
+Sou um desenvolvedor em formação, apaixonado por tecnologia e pelo poder que o código tem de transformar ideias em realidade.  
+Busco adquirir **experiência prática** e contribuir com projetos que tenham **impacto real**.
 
-- 💻 **Desenvolvedor em formação:** Busco todos os dias melhorar minhas habilidades e explorar novas tecnologias.
-- 🎯 **Objetivo:** Construir uma carreira sólida como **desenvolvedor web full-stack** e contribuir para projetos desafiadores e significativos.
-- 🌱 **Projetos atuais:** Estou desenvolvendo um sistema simples para armazenar dados de clientes de uma lojinha de galetos, utilizando **Django** e **SQLite**.
+- 💻 **Desenvolvedor em formação:** Todos os dias busco aprender algo novo e aprimorar minhas habilidades.  
+- 🎯 **Objetivo:** Construir uma carreira sólida como **desenvolvedor web full-stack**, criando projetos modernos e funcionais.  
+- 🌱 **Projetos atuais:** Estou desenvolvendo um sistema simples de gerenciamento de clientes para uma loja de galetos, utilizando **Next.js**, **TypeScript** e **TailwindCSS**.
 
 ---
 
-## 🛠️ Minhas habilidades
+## 🛠️ Minhas Habilidades
 
-Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
+Aqui estão algumas das tecnologias e ferramentas que estudo e utilizo no meu dia a dia:
 
 ---
 
 ### 🌐 Front-End
 
 <details>
-<summary>Clique para expandir!</summary>
+<summary><b>Clique para expandir</b></summary>
 
--   **Linguagens:** HTML, CSS, JavaScript
--   **Frameworks/Bibliotecas:** React, Tailwind CSS (para estilização moderna e responsiva)
--   **Práticas:** Criação de layouts acessíveis e funcionais, com foco em responsividade e experiência do usuário.
+- **Linguagens:** HTML, CSS, JavaScript, TypeScript  
+- **Bibliotecas e Frameworks:** React, Next.js, Tailwind CSS  
+- **Práticas:** Criação de interfaces responsivas e acessíveis com foco em performance e experiência do usuário.  
 
 </details>
 
 ---
 
-### 🔧 Back-End
+### ⚙️ Back-End
 
 <details>
-<summary>Clique para expandir!</summary>
+<summary><b>Clique para expandir</b></summary>
 
--   **Linguagens:** Python, JavaScript (Node.js)
--   **Frameworks:** Django (uso frequente para criar APIs e sistemas robustos)
--   **APIs:** Desenvolvimento de **APIs RESTful**
--   **Práticas:** Autenticação, manipulação de dados e lógica de negócios.
+- **Linguagens:** JavaScript, TypeScript  
+- **Ambientes:** Node.js  
+- **APIs:** Desenvolvimento e consumo de **APIs RESTful**  
+- **Práticas:** Integração entre front-end e back-end, organização de rotas e conexão com bancos de dados.  
 
 </details>
 
@@ -51,12 +53,11 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ### 🗄️ Bancos de Dados
 
 <details>
-<summary>Clique para expandir!</summary>
+<summary><b>Clique para expandir</b></summary>
 
--   **Relacionais:**
-    -   **SQLite3:** Uso frequente para projetos menores.
-    -   **PostgreSQL:** Experiência sólida em projetos maiores.
-    -   **MySQL:** Conhecimento básico.
+- **Relacionais:**  
+  - 🗃️ SQLite – uso em projetos pequenos  
+  - 🧩 PostgreSQL – aprendendo e implementando em projetos pessoais  
 
 </details>
 
@@ -65,10 +66,11 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ### 📦 Ferramentas e Versionamento
 
 <details>
-<summary>Clique para expandir!</summary>
+<summary><b>Clique para expandir</b></summary>
 
--   **Controle de Versão:** Git e GitHub (para controle de versão e colaboração em projetos)
--   **Ambientes:** Node.js (familiaridade para desenvolvimento de aplicações web e manipulação de back-end)
+- **Controle de versão:** Git e GitHub  
+- **Deploy e Integração:** Vercel (deploy de aplicações Next.js)  
+- **Boas práticas:** Commits organizados, versionamento e colaboração em equipe.  
 
 </details>
 
@@ -76,12 +78,17 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ## 📚 O que estou aprendendo agora
 
-Estou sempre em busca de novos conhecimentos! Atualmente, estou focado em:
+Estou sempre me atualizando e explorando novas tecnologias!  
+Atualmente, estou focado em:
 
--   🧩 **Tailwind CSS:** Explorando todo o potencial para criar interfaces elegantes e minimalistas.
--   🐍 **Django:** Aprofundando conhecimentos em autenticação, ORM e escalabilidade para sistemas mais robustos.
--   🗄️ **Bancos de Dados:** Melhorando a utilização de **PostgreSQL** e **MySQL**, além de explorar o NoSQL com MongoDB.
--   🌐 **Node.js:** Entendendo como utilizá-lo em back-end e aplicações em tempo real.
--   🐳 **Docker:** Aprendendo como usar containers para criar ambientes de desenvolvimento consistentes e escaláveis.
+- 🧩 **Next.js** – criação de aplicações web completas e otimizadas  
+- 🎨 **Tailwind CSS** – interfaces modernas, minimalistas e responsivas  
+- ⚙️ **TypeScript** – código mais seguro, legível e escalável  
+- 🌐 **Node.js** – integração entre front-end e back-end  
+- 🧠 **Boas práticas de código** – organização, versionamento e documentação  
 
 ---
+
+<div align="center">
+  <h3>✨ “Aprender, criar e evoluir — um commit de cada vez.” ✨</h3>
+</div>
