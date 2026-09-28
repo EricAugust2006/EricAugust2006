@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d4ff&height=230&section=header&text=Eric%20Rodrigues&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%7C%20React%20•%20Next.js%20•%20TypeScript&descAlignY=58&descSize=20" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d4ff&height=230&section=header&text=Eric%20Rodrigues&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Frontend%20%7C%20React%20•%20Next.js%20•%20TypeScript&descAlignY=58&descSize=20" width="100%" alt="header"/>
 
 <a href="https://eric-rodrigues.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Interfaces+modernas%2C+responsivas+e+acess%C3%ADveis;Back-end+com+Node.js%2C+PostgreSQL+e+CI%2FCD;Dev+de+jogos+em+Unity+%2B+est%C3%BAdio+indie;Buscando+minha+primeira+vaga+J%C3%BAnior+ou+Est%C3%A1gio" alt="Typing SVG" />
@@ -26,7 +26,7 @@
 ```ts
 const eric = {
   nome: "Eric Augusto da Silva Rodrigues",
-  papel: "Desenvolvedor Fullstack",
+  papel: "Desenvolvedor Frontend",
   base: "Vila Velha, ES 🇧🇷",
   stackPrincipal: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
   backend: ["Node.js", "PostgreSQL", "MongoDB", "Docker", "CI/CD"],
@@ -37,7 +37,7 @@ const eric = {
 };
 ```
 
-Sou um desenvolvedor com forte domínio de **JavaScript e TypeScript**, focado em criar **interfaces web modernas, responsivas e acessíveis** com React e Next.js. Gosto de componentes reutilizáveis, integração de APIs, gerenciamento de estado e código limpo. Também domino o back-end com **Node.js e bancos de dados**, o que me ajuda a conversar com times full stack e entregar soluções mais completas, estáveis e escaláveis.
+Sou um desenvolvedor com forte domínio de **JavaScript e TypeScript**, focado em criar **interfaces web modernas, responsivas e acessíveis** com React e Next.js. Gosto de componentes reutilizáveis, integração de APIs, gerenciamento de estado e código limpo. Também domino o back-end com **Node.js e bancos de dados**, o que me ajuda a conversar com times Frontend e entregar soluções mais completas, estáveis e escaláveis.
 
 ---
 
